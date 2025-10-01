@@ -1,0 +1,45 @@
+__static/871b37bdf431aa035bb8457327cf84ef/santiago_doris-copia_-10-mm.jpg
+__static/2a88831a46cdf5d1160215e9c8be8f32/beach1.jpg
+__static/9e067196d37f23daeeddf2c8988cb508/castillo_villena_1.jpg
+__static/c3aef466728597c90a36c7332e85fe33/wesseling_john_-02-jpg.png
+__static/47dfb361cf8a3eaabae4402d7f21a82e/playasanjuan_-2864-e696-bdda-4925-8bbd-679-a979cfbb-0-c10(2).jpg
+__static/e8acc7c62a5a1196ca191295e2df7fd0/castillo.jpg
+__static/9e4a2328154630ba922a97de1da68cb6/dianabaeza-copia-2-_9mm.png
+__static/1fdef9aefd6892b7f6e64ae7020779c9/fullmodel-125-_wheader_crpd.png
+__static/3a16708949469375dead6a4da8d0b484/modelbig.png
+__static/1b3121e55bb702857a116babeaebee99/wesselinglablogo_in_2017(2).png
+__static/default.png
+__static/9856c9a71aaddde3a65c9cdc5111b1f4/sergio(4).png
+__static/c3aef466728597c90a36c7332e85fe33/wesseling_john_-02-jpg.png
+__static/ae65de03e1d87a3bb269f2facf3f29fd/capture_-20-ptheader_crpd.png
+__static/5694436972a1eb9fe9b772e4f63a8ac2/juanjo(4).png
+
+beach1.jpg
+capture_20_ptheader_crpd.png
+castillo.jpg
+castillo_villena_1.jpg
+default.png
+dianabaeza_copia_2_9mm.png
+fullmodel_125_wheader_crpd.png
+juanjo_4.png
+modelbig.png
+playasanjuan_2.jpg
+santiago_doris_copia_10mm.jpg
+sergio_4_.png
+wesseling_john_02_jpg.png
+wesseling_john_2_jpg.png
+wesselinglablogo_in_2017_2.png
+
+
+emacs ./frequencydynamics/index.html &  %didn't work. Come back to this
+emacs ./publications/index.html &       %not perfect.  Come back to this
+./.git/index
+emacs ./modelofratelimiting/index.html & %not perfect
+
+./blank/index.html &
+./faq/index.html
+emacs ./people/index.html &
+emacs ./localattractions/index.html &
+./privacy-and-cookies-policy/index.html
+./index_prev.html
+./contact/index.html
