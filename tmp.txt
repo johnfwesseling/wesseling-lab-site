@@ -32,14 +32,14 @@ wesselinglablogo_in_2017_2.png
 
 
 emacs ./frequencydynamics/index.html &  %looking good, but blue square
-emacs ./publications/index.html &       %not perfect.  Come back to this
+emacs ./publications/index.html &       %looking good, but blue square
 ./.git/index
-emacs ./modelofratelimiting/index.html & %not perfect
+emacs ./modelofratelimiting/index.html & %good, but blue square 
 
 ./blank/index.html &
 ./faq/index.html
-emacs ./people/index.html &          % yay, works!
-emacs ./localattractions/index.html &  %images at least, compare to old website.
-./privacy-and-cookies-policy/index.html
+emacs ./people/index.html &          % seems to work
+emacs ./localattractions/index.html &  %looks good, compare
+emacs ./privacy-and-cookies-policy/index.html &
 ./index_prev.html
 ./contact/index.html
