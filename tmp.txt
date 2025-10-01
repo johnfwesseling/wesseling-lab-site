@@ -34,11 +34,12 @@ wesselinglablogo_in_2017_2.png
 emacs ./frequencydynamics/index.html &  %didn't work. Come back to this
 emacs ./publications/index.html &       %not perfect.  Come back to this
 ./.git/index
-emacs ./modelofratelimiting/index.html &
-./blank/index.html
+emacs ./modelofratelimiting/index.html & %not perfect
+
+./blank/index.html &
 ./faq/index.html
 ./people/index.html
-./localattractions/index.html
+emacs ./localattractions/index.html &
 ./privacy-and-cookies-policy/index.html
 ./index_prev.html
 ./contact/index.html
