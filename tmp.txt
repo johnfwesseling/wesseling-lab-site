@@ -31,7 +31,7 @@ wesseling_john_2_jpg.png
 wesselinglablogo_in_2017_2.png
 
 
-emacs ./frequencydynamics/index.html &  %didn't work. Come back to this
+emacs ./frequencydynamics/index.html &  %looking good, but blue square
 emacs ./publications/index.html &       %not perfect.  Come back to this
 ./.git/index
 emacs ./modelofratelimiting/index.html & %not perfect
