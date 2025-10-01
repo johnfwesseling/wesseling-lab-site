@@ -38,8 +38,8 @@ emacs ./modelofratelimiting/index.html & %not perfect
 
 ./blank/index.html &
 ./faq/index.html
-./people/index.html
-emacs ./localattractions/index.html &
+emacs ./people/index.html &          % yay, works!
+emacs ./localattractions/index.html &  %images at least, compare to old website.
 ./privacy-and-cookies-policy/index.html
 ./index_prev.html
 ./contact/index.html
