@@ -38,10 +38,10 @@ emacs ./modelofratelimiting/index.html & %good, but blue square
 emacs ./people/index.html &          % seems to work
 emacs ./localattractions/index.html &  %looks good, compare
 emacs ./privacy-and-cookies-policy/index.html &  %not sure what to even look for here.
+emacs ./contact/index.html &
+emacs ./blank/index.html &
+emacs ./faq/index.html &
 
 
 ToDo
 ---
-./blank/index.html &
-./faq/index.html
-./contact/index.html
