@@ -44,4 +44,4 @@ ToDo
 ---
 ./blank/index.html &
 ./faq/index.html
-./contact/index.html
+emacs ./contact/index.html &
