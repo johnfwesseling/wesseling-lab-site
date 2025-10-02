@@ -50,7 +50,7 @@
   --footer_sub_background: var(--footer_main_background);
   --logo_default_isLink: true;
   --logo_default_text: Blank;
-  --logo_default_src: /static/088/logo.svg;
+  --logo_default_src: ../__static/static/088/logo.svg;
   --logo_default_footer_src: 'themes/_global/logo.png';
   --link_name: link_01;
   --link_color: var(--color_brand);
